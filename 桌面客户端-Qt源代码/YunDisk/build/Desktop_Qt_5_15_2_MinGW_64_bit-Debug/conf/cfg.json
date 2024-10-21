@@ -1,0 +1,14 @@
+{
+    "login": {
+        "pwd": "LRnEs0ruk0k=",
+        "remember": "yes",
+        "user": "LRnEs0ruk0k="
+    },
+    "type_path": {
+        "path": "conf/fileType"
+    },
+    "web_server": {
+        "ip": "",
+        "port": ""
+    }
+}
